@@ -1,0 +1,16 @@
+                                                     Member's List
+---------------------------------------------------------------------------------------------------------------------------------
+Membership No   Membership Type      Membership Start Date     Member's Name             Weight     Height     
+
+1               Over 60 Member       20/3/2020                 Grey hassle               67         154        
+2               StudentMember        23/9/2019                 Brown maggle              45         156        
+4               Default Member       18/11/2019                Chammy drake              80         170        
+5               Default Member       3/5/2020                  kelly brown               23         130        
+10              Default Member       12/6/2019                 harin de silva            87         167        
+25              Default Member       23/4/2020                 halseu coorey             76         165        
+31              StudentMember        22/3/2020                 Frank muller              65         173        
+42              StudentMember        12/9/2019                 Shawn Perera              77         163        
+43              Over 60 Member       24/7/2020                 Kumara silva              65         112        
+41              Default Member       11/12/2323                hsd                       65         343        
+100             Default Member       20/3/200                  Induwara                  78         163        
+101             StudentMember        24/3/2020                 bentra                    67         156        
